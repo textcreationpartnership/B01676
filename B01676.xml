@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most humble mem[o]randum from Peter Blondeau, concerning the offers made to him by this Commonwealth, for the coyning of the monie, by a new invention, not yet practised in any state of the world, the which will prevent counterfeiting, casting, washing, and clipping of the same : which coyn shall be marked on both the flat sides, and about the thickness or the edge ; of a like bigness and largness, as the ordinarie coyn is : and will cost no more than the ordinarie unequal coyn, which is used now.</title>
+            <author>Blondeau, Peter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01676</idno>
+            <idno type="STC">Wing B3219CA</idno>
+            <idno type="STC">ESTC R172780</idno>
+            <idno type="EEBO-CITATION">53981607</idno>
+            <idno type="OCLC">ocm 53981607</idno>
+            <idno type="VID">180124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180124)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2817:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most humble mem[o]randum from Peter Blondeau, concerning the offers made to him by this Commonwealth, for the coyning of the monie, by a new invention, not yet practised in any state of the world, the which will prevent counterfeiting, casting, washing, and clipping of the same : which coyn shall be marked on both the flat sides, and about the thickness or the edge ; of a like bigness and largness, as the ordinarie coyn is : and will cost no more than the ordinarie unequal coyn, which is used now.</title>
+                  <author>Blondeau, Peter.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Initial letter.</note>
+                  <note>Imperfect: torn with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Counterfeits and counterfeiting --  Great Britain --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="memorandum">
+            <pb facs="tcp:180124:1" rendition="simple:additions"/>
+            <head>A <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt humble <hi>MEM<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>RANDUM</hi> From <hi>Peter Blondeau,</hi> Concerning the offers by him made to this Com<g ref="char:EOLhyphen"/>monwealth, for the coyning of the monie, by a new Invention, not yet practiſed in any State of the world; the which will pre<g ref="char:EOLhyphen"/>vent counterfeiting, caſting, waſhing and clipping of the ſame: Which Coyn ſhall bee marked on both the flat ſides, and about the thickneſs or the edge; of a like bigneſs and largneſs, as the or<g ref="char:EOLhyphen"/>dinarie coyn is: and will coſt no more then the ordinarie unequal Coyn, which is uſed now.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath been the pleaſure of the Parlament and of the Council of State, to paſs ſom Orders in relation to the preventing of the coun<g ref="char:EOLhyphen"/>terfeited and clipped monie, now diſ<g ref="char:EOLhyphen"/>perſed in <hi>England, Scotland</hi> and <hi>Ireland,</hi> hee make's bold, yet with ſubmiſſion, to pre<g ref="char:EOLhyphen"/>ſent the following particulars, contei<g ref="char:EOLhyphen"/>ning,
+<pb n="2" facs="tcp:180124:2"/>beſides the ſaid offers, Firſt, the reaſon why the Coyn <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Common<g ref="char:EOLhyphen"/>wealth is clipped and light, ſo that few pieces are to bee found <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eighing their true weight; As alſo the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſon why ſo much falſ Coyn is now diſperſed. And ſecondly, the onely way to remedie the ſaid inconveniences, and to ſettle a good and conſtant order in the Mint.</p>
+            <p>As to the firſt, the reaſon of the ſaid abuſes is becauſ the monie coyned with the hammer is ſo eaſie to bee counterfeit<g ref="char:EOLhyphen"/>ed, and with ſo few Engines and ſo little expences, that thereby the falſ Coyners are encouraged and their number en<g ref="char:EOLhyphen"/>creaſed. And the dailie experience to this day ſhewed, that ſeldom or never any falſ Coyners have been diſcovered by the noiſ of the hammer.</p>
+            <p>Another reaſon is, becauſ the monie coined with the hammer, cannot bee made exactly round, nor equal in weight and bigneſs, and is often groſsly marked, and hath many other faults, which give's a great facilitie to the falſ Coyners to counterfeit and mould it; as alſo to the Clippers to clip it: It beeing very
+<pb n="3" facs="tcp:180124:2"/>hard to diſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ween a clipped piece, and one not c<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>d. Beſides, abundance of coyn is ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e too light even at the Min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: The ſaid <hi>Blondeau</hi> himſelf hath re<g ref="char:EOLhyphen"/>ceived ſom <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>illings (which hee ſhewed to the Committee for the Mint) which weighed ſom five, ſom ſix, and ſom ſeven pence onely; as to the contrarie, hee received ſom that weighed ſeventeen, yea, &amp; eighteen pence; both of them made ſo at the Mint: Which inequalitie occa<g ref="char:EOLhyphen"/>ſions ſeveral Goldſmiths and others, who receiv the monie from the Mint, to cull or pick out the heavieſt pieces to melt them; and after them, others do again cull or pick out the heavieſt of them that are left, to tranſport them be<g ref="char:EOLhyphen"/>yond Seas; ſo that onely the light, the falſ &amp; the clipped monie remain's within the State, which turn's to the great ruine and deſtruction of Commerce, and un<g ref="char:EOLhyphen"/>doeth thoſe poor people, who ſpend their monie little by little; for having ſom counterfeited or clipped pieces, they cannot put them off, but are forced to ſell them, with loſs, unto the Goldſmiths and others who can ſpend them among other moneys, or trade therein, and ſell
+<pb n="4" facs="tcp:180124:3"/>them again to the Ca<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>epers of the Treaſurers, Bankiers, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erchants and others, who make them paſs afterwards among other monies; ſo that they re<g ref="char:EOLhyphen"/>turn again into the ha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of the poor.</p>
+            <p>The reaſon why the workmen of the Mint do make the coyn thus unequal in weight, and do not care to keep the true weight, is becauſ it is ſooner don. Beſides, the ſaid workmen may coyn ſomtimes their own ſilver, or may treat with thoſe that bring their Bullion to bee coyned, becauſ they do not render the coyn by tale, but by the pound, and ſo ſtill there bee more pieces in number, then there ſhould bee in a pound. And the monie ſo coyned beeing diſtributed out of the Mint, the officers themſelvs and the work<g ref="char:EOLhyphen"/>men of the Mint do cull or pick out the heavieſt pieces to melt them again, as they themſelvs have confeſſed before the ſaid Committee for the Mint. And that is the thing which among themſelvs they call the myſterie or ſecret of the Mint, and which is the cauſ that, by themſelvs and by their friends, they make uſe of all their joint power and credit, and will
+<pb n="5" facs="tcp:180124:3"/>laie ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eſtate, and leav no ſtone unmooved to <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>der the changing of the waie of coyning the monie.</p>
+            <p>As to the way of remedying thoſe inconvenien<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and ſettling a good and conſtant order in t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mint, it cannot bee don<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay pro<g ref="char:EOLhyphen"/>pounded by the ſaid <hi>Blondeau,</hi> by marking the coyn not onely on both the flat ſides, but alſo upon the thickneſs or the edges.</p>
+            <p>The coyn made after that way, can<g ref="char:EOLhyphen"/>not bee clipped without taking away the marks that are about the thickneſs, the which would bee eaſily perceived. Beſides, the pieces will bee of an equal bigneſs and largeneſs; the half-crown of the ordinarie weight and bigneſs, the ſhilling and other pieces according<g ref="char:EOLhyphen"/>ly; and ſo equal among themſelvs, that it will bee impoſſible to take the leſs thing from any of them, but it will ſhew leſs then the reſt, and ſo will be<g ref="char:EOLhyphen"/>com not currant: They cannot bee al<g ref="char:EOLhyphen"/>tered by waſhing or any other way, but they will loſe their bigneſs &amp;c glaſs, ſo that a blindman will eaſily feel it.</p>
+            <p>The ordinarie coyn marked onely
+<pb facs="tcp:180124:4"/>on both the flat ſide<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee moulded, as the experience do <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>w by the grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quantitie of falſ coyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ded, which is currant now; but <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> it is marked on the thickneſs or edges, the marks about the ſaid edges can no way bee moulded. And though they could, yet in that caſe they ought to bee fyled after round about, ſpecially in the place where it hath been caſt, to take away the ſuperfluous metal; which fyling cannot bee don without ſpoiling and taking away the ſaid marks about the edges, and conſequently made eaſily known not to bee currant.</p>
+            <p>The monie ought to bee adjuſted piece after piece, equal in weight, both Gold and Silver. And for that end, it is requiſite that an Officer bee appoint<g ref="char:EOLhyphen"/>ed in the Mint, whoſe charge ſhould bee to weigh the monie piece after piece when it is finiſhed; and in caſe he finde's any piece unequal or unhandſomly made, hee ought to reject it and give it to bee melted again, upon the charges of the Undertaker of the Mint, thereby to oblige him to bee ſo much the more careful: And for to hinder the conni<g ref="char:EOLhyphen"/>vence
+<pb facs="tcp:180124:4"/>of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appointed to weigh the ſaid piece<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who might happen to juggle with <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Undertaker; another Officer may <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppointed, to whom any of the people that ſhall finde any of the new coined pieces lighter then it ſhould bee, might repair within a con<g ref="char:EOLhyphen"/>venient time, who ſhall change the ſaid light pieces, all which ſhall bee put to account to the ſaid Officer appointed for the weighing: But that cannot bee don except the monie bee coyned after the ſaid <hi>Peter Blondeau's</hi> way, that is, marked on both ſides, and upon the edges; elſ the Weigher might pretend it had been clipped and made light ſince it went out of his hand And the monie bee<g ref="char:EOLhyphen"/>ing coined after the ſaid way, beſides the hindering or removing of the aforeſaid inconveniences, it will raiſ or encreaſ the Exchange by about ten <hi>per centum,</hi> to the advantage of this Common-wealth.</p>
+            <p>It is alſo requiſite, to maintain the ſtandard or goodneſs of the coyn, that any Goldſmith, Refiner, or other whom<g ref="char:EOLhyphen"/>ſoëver bee permitted to make eſſay of the currant monie; and in caſe it bee not found of the ſtandard or goodneſs, they
+<pb facs="tcp:180124:5"/>might bee allowed <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck to an appointed Officer, t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the reſt of the pieces by them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o bee there tried again before <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>miſſioners, and the Trier of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mint; and if it bee found that the ſaid coyn bee not of the due goodneſs, the diſcoverer ſhall bee rewarded at the charges of the Trier, that hee may have a due care, that no coyn com's out of the Mint but ſuch as ſhall bee of a due value, and according to the order of the State.</p>
+            <p>The Council of State being willing to prevent the ſaid diſorders, was de<g ref="char:EOLhyphen"/>ſirous to have the monie of this Com<g ref="char:EOLhyphen"/>monwealth well coyned; and therefore having ſeen the patterns of coyn made after a new Invention by the ſaid <hi>Blon<g ref="char:EOLhyphen"/>deau,</hi> and having treated by Letters about the quantitie of pieces that could bee coyned in a week, and what they might coſt; the ſaid Council, cauſed the ſaid <hi>Blondeau</hi> the Inventor of that way of coyning, to com to <hi>London,</hi> to treat with him by word of mouth, and to agree about the price of coyning the monie of this Common-wealth after his way. Hee beeing then arrived at
+<pb facs="tcp:180124:5"/>
+               <hi>London</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ce <hi>Septemb.</hi> 1649. the ſaid Cou<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ced on him 40<hi rend="sup">l</hi> ſter<g ref="char:EOLhyphen"/>ling, and the late M<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Froſt,</hi> then Secretarie to the ſaid Cou<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> told him before Witneſſes, that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State could not agree with him a<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he price, and that therefore hee ſhou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bee neceſſitated to retire himſelf, the State woul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> indamni<g ref="char:EOLhyphen"/>fie him for his journie, both coming and returning, and for the time hee ſhould have loſt, and would beſtow on him ſuch a preſent, that hee would re<g ref="char:EOLhyphen"/>turn ſatisfied. A while after, the ſaid Council of State ordered the Com<g ref="char:EOLhyphen"/>mittee of the Council of State for the Mint to hear the ſaid <hi>Blondeau</hi>'s Propo<g ref="char:EOLhyphen"/>ſition, and report it to the ſaid Council.</p>
+            <p>The Committee for the Mint accor<g ref="char:EOLhyphen"/>dingly took into conſideration, whe<g ref="char:EOLhyphen"/>ther the ſaid <hi>Blondeau</hi> ſhould bee admit<g ref="char:EOLhyphen"/>ted to coyn the monie of this Common-wealth; and having debated it, they reſolved and approoved that he ſhould be admitted thereunto, provided his coyn and his Propoſition ſhould bee advan<g ref="char:EOLhyphen"/>tagious to the State.</p>
+            <p>Afterwards the ſaid Committee ha<g ref="char:EOLhyphen"/>ving ſeriouſly conſidered and examined
+<pb facs="tcp:180124:6"/>all the circumſt<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> waie of coyning propound<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaid <hi>Blon<g ref="char:EOLhyphen"/>deau,</hi> and having h<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> all the Objections that could bee all<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> againſt it, both by the Maſter, Offi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> workmen of the Mint or by an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of thoſe who ap<g ref="char:EOLhyphen"/>peared in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon debate of the whole, the ſaid Committee conclud<g ref="char:EOLhyphen"/>ed and Voted, that the ſaid waie of coyn<g ref="char:EOLhyphen"/>ing propounded by the ſaid <hi>Blondeau,</hi> was better, more advantagious and more honorable for the State, then that which is uſed now in this Common-wealth.</p>
+            <p>The Maſter, the Officers and the work<g ref="char:EOLhyphen"/>men of the Mint told the Committee, it was not likely the ſaid <hi>Blondeau</hi> had don himſelf, the pieces ſent by him to the Council of State. Beſides, that it was an old Invention, which they knew themſelvs, and that ſuch pieces were one<g ref="char:EOLhyphen"/>ly made for curioſitie, with very long time and great expence, and that it was impoſſible, that that waie might bee uſed about the ordinarie coyn, which is thin. They deſired that the ſaid <hi>Blondeau</hi> might bee commanded to make a trial of his skill by making ſom other pieces, and that they would do as much as the ſaid
+<pb facs="tcp:180124:6"/>
+               <hi>Blondeau.</hi> There<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore the ſaid Com<g ref="char:EOLhyphen"/>mittee ordered both the ſaid <hi>Blondeau</hi> and the ſaid workmen t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their patterns and Propoſitions <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ctively; and that hee that would <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with moſt ad<g ref="char:EOLhyphen"/>vantage to the St<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ld have the Im<g ref="char:EOLhyphen"/>ployment.</p>
+            <p>At the time app<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> workmen brought to the Committee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om pieces made after the old waie, which is known to them, and ſom big pieces of Silver, ſtuffed within with copper; but they had drawn no Propoſitions.</p>
+            <p>Likewiſe the ſaid <hi>Blondeau</hi> brought in about 300 pieces, ſom half-crowns of the ordinarie weight and bigneſs, ſom ſhillings, ſixpences, and ſom Gold pieces, and preſented his Propoſition, which having been reformed according to the pleaſure of the ſaid Committee, it was received and accepted of by the whole Committee, who ordered it to bee re<g ref="char:EOLhyphen"/>ported to the Council of State, accord<g ref="char:EOLhyphen"/>ing to the order of the ſaid Council.</p>
+            <p>The ſaid Committee having then taken into conſideration the big pieces of Silver at the outſide, and ſtuffed with<g ref="char:EOLhyphen"/>in with copper (made with the Engins
+<pb facs="tcp:180124:7"/>that are at the To<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, and well un<g ref="char:EOLhyphen"/>derſtood that the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id pieces, becauſ they are made <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eral pieces at the top o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will give no ſound <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> man can eaſily diſcer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſ; and having weighe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and great coſt required <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> each piece; be<g ref="char:EOLhyphen"/>cauſ th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 4 pieces, namely one of cop<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and one of Silver at the top, another underneath and one about, the which ought to bee adjuſted and ſo<g ref="char:EOLhyphen"/>dered together, beſides ſeveral other faſhions, which coſt more then the price of the lawful pieces; having alſo conſidered the great and heavie Engins, and great number of tools and of men required for making of one piece, the great charges for the En<g ref="char:EOLhyphen"/>gins and tools and ſeveral other things required for making of thoſe counter<g ref="char:EOLhyphen"/>fetted pieces, they acknowledged that it would bee enough to diſſwade anie one from undertaking it; the rich not beeing willing, and the poor beeing un<g ref="char:EOLhyphen"/>able; and that though they ſhould under<g ref="char:EOLhyphen"/>take it they could not do it without bee<g ref="char:EOLhyphen"/>ing
+<pb n="13" facs="tcp:180124:7"/>diſcovered. Beſides, that the monie coyned after the wa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the ſaid <hi>Blon<g ref="char:EOLhyphen"/>deau</hi> was ſo thin, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it cannot bee ſo counterfeited.</p>
+            <p>Whereupon it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ble, that the ſaid workmen of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> although they made uſe of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d heavie Engins, that are in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, yet for making of ſom Tools <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed of, and for the other charges <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>yning a<g ref="char:EOLhyphen"/>bout a dozen of pieces, they made then for a pattern, have ſpent 100 l. ſt. as hee that pretend's to have laid out the monie hath ſaid before witneſſes.</p>
+            <p>Afterwards, another order was given by the ſaid Committee, and ſom time li<g ref="char:EOLhyphen"/>mited to the ſaid workmen, to draw and preſent their Propoſition for coyning of the monie marked upon the thickneſs or edge, as that of the ſaid <hi>Blondeau</hi> is; But after the exſpiration of the long time demanded by them, they brought ſuch a Propoſition, that the ſaid Committee having read it over and over, could not underſtand it, nor the ſenſ of it; and even thoſe that brought it could not explain it; whereby it was apparent to the ſaid Committee, that they were
+<pb n="14" facs="tcp:180124:8"/>not able to mak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Propoſition good, much leſs <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n the monie after that waie; whi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y avowed them<g ref="char:EOLhyphen"/>ſelvs before th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmittee. Yet they intreate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mittee to allow them the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> months more to finde, if <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w invention, and that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>eau</hi>'s Propoſition ſhould <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>cated unto them, up<g ref="char:EOLhyphen"/>on whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight frame their own. They further demanded that the ſaid <hi>Blondeau</hi> and the Graver, ſhould have or<g ref="char:EOLhyphen"/>der to bring in all the pieces made by the ſaid <hi>Blondeau</hi> for a trial, with the ſtamps or dices uſed for making of them; All which was granted them, upon that con<g ref="char:EOLhyphen"/>dition, that if within the time allowed them, they could finde out the means to coyn the monie after the ſaid <hi>Blondeau</hi>'s waie, and that thereupon hee ſhould bee ſent back, hee ſhould bee indamnified, which was agreed by all. But they could never finde out the ſaid new Inven<g ref="char:EOLhyphen"/>tion for coyning the thin &amp; weak pieces after that waie with expedition requiſite. Yet for all that, they made their Propo<g ref="char:EOLhyphen"/>ſitions, w<hi rend="sup">ch</hi> are in the hands of the Chair<g ref="char:EOLhyphen"/>man of the Committee, as are alſo the
+<pb n="15" facs="tcp:180124:8"/>
+               <hi>Blondeau</hi>'s Prop<gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>n &amp; patterns, about a year and a <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, to bee reported by him to the Coun<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> State.</p>
+            <p>The workmen <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nt have given to underſtand <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 200 poor families, whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ined by the work of the Min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſides truth. For ſom Officers o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mint have told before witneſſes, that for <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rly their Corporation was at the moſt of 40 Maſters, and that at this time they are hardly 30 Maſters, w<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re all rich, have lands or houſes, and other waies of maintenance, without the work of the Mint. And that when they had much monie to coyn, they were wonted to hire ſom journie-men, giving to ſom 18 pence, to ſom 15 and to ſom 12 for half a daies work. Beſides, in caſe the State admits of the ſaid <hi>Blondeau</hi> to coyn the monie after his waie, and the workmen bee willing to work after the ſaid waie, hee will oblige himſelf to teach them and paie them a reaſonable price.</p>
+            <p>The ſaid <hi>Blondeau</hi> doth not intend to have the Gold nor the Silver in his cuſtodie, but onely the charge of work<g ref="char:EOLhyphen"/>ing the ſame, by ſuch perſons as the State
+<pb facs="tcp:180124:9"/>ſhall bee pleaſed <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereunto.</p>
+            <p>Hee ſhall not <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wer to admi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any one to th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Mint, with<g ref="char:EOLhyphen"/>out the conſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>bation of the State.</p>
+            <p>Nor w<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> keeping of the Dices or <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y ſhall bee in<g ref="char:EOLhyphen"/>truſted in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as the State ſhall adm<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> wo<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>.</p>
+            <p>In a word, hee doth generally ſubmit to whatſoever the S<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> ſhall think rea<g ref="char:EOLhyphen"/>ſonable. Onely <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prays to co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſider, that</p>
+            <list>
+               <item>1. The exact equalitie, that will bee effected by this waie and invention of the ſaid <hi>Blondeau,</hi> will hinder and avoid all the known corrupt Practices about coyn<g ref="char:EOLhyphen"/>ing.</item>
+               <item>2. The charge of the State concerning the ſame, conſidering all circumſtances, will bee leſs then in the old waie; and the honor of this Common-wealth much the greater, in having their monies coyned in perfection, above, or beyond any other State now known.</item>
+               <item>3. The ſaid <hi>Blondeau</hi> came to <hi>London</hi> a<g ref="char:EOLhyphen"/>bout 3 years and a half ſince, and hath no other imployment here, but to attend the pleaſure of the State.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180124:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
